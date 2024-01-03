@@ -3,17 +3,17 @@
 }
 
 .card {
-  width: 25rem;
-  height: 28rem;
+  width: 20rem;
+  height: 23rem;
   font-size: 2rem;
   text-align: center;
   background-color: antiquewhite;
   box-shadow: 5px 5px 15px 5px;
 }
 
-textarea{
+.inputText{
   width: 95%;
-  height: 95%;
+  height: 5rem;
   resize: none;
 }
 
